@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "SURPRISE-DRIVE（『仮面ライダードライブ』主題歌）",
+  "base_artist": "Mitsuru Matsuoka EARNEST DRIVE",
+  "createdAt": "2026-01-09T06:43:22.016059Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SURPRISE-DRIVE(TV Edit.)",
+      "artist": "Mitsuru Matsuoka EARNEST DRIVE",
+      "has_synced": false,
+      "path": "select/pl_01_SURPRISE-DRIVE(TV_Edit.)_Mitsuru_Matsuoka_EARNEST_DRIVE.txt"
+    }
+  ]
+}
